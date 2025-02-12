@@ -20,7 +20,7 @@
             <img
               class="mr-3"
               alt="gamatrain"
-              :src="require('@/assets/images/dashboard-icon/21.svg')"
+              :src="require('@/assets/images/dashboard-icon/Order.webp')"
             />
 
             Order
@@ -33,7 +33,7 @@
               class="mr-3"
               id="logo"
               alt="gamatrain"
-              :src="require('@/assets/images/dashboard-icon/Finance.svg')"
+              :src="require('@/assets/images/dashboard-icon/MyStock.webp')"
             />
 
             My Stock
@@ -46,7 +46,7 @@
               class="mr-3"
               id="logo"
               alt="gamatrain"
-              :src="require('@/assets/images/dashboard-icon/Group 237483.svg')"
+              :src="require('@/assets/images/dashboard-icon/Analysis.webp')"
             />
 
             Analysis
