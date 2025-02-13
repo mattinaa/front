@@ -5,7 +5,11 @@
       <!-- Sidebar -->
       <aside class="sidebar">
         <div class="d-flex">
-          <img id="logo" alt="gamatrain" :src="require('@/assets/images/Logo.svg') " />
+          <img
+            id="logo"
+            alt="gamatrain"
+            :src="require('@/assets/images/Logo.svg')"
+          />
 
           <h3 class="d-flex justify-center align-center mt-6 ml-2">
             Admin Panel
@@ -20,7 +24,7 @@
             <img
               class="mr-3"
               alt="gamatrain"
-              :src="require('@/assets/images/dashboard-icon/Order.webp')"
+              :src="require('@/assets/images/dashboard-icon/Order.svg')"
             />
 
             Order
@@ -33,7 +37,7 @@
               class="mr-3"
               id="logo"
               alt="gamatrain"
-              :src="require('@/assets/images/dashboard-icon/MyStock.webp')"
+              :src="require('@/assets/images/dashboard-icon/MyStock.svg')"
             />
 
             My Stock
@@ -46,7 +50,7 @@
               class="mr-3"
               id="logo"
               alt="gamatrain"
-              :src="require('@/assets/images/dashboard-icon/Analysis.webp')"
+              :src="require('@/assets/images/dashboard-icon/Analysis.svg')"
             />
 
             Analysis
